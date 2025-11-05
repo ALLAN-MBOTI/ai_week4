@@ -2,12 +2,6 @@ AI Tools Assignment
 
 Theme: Mastering the AI Toolkit
 
-Group Members:
-
-Nelly Naserian
-
-Allan Mboti
-
 Description:
 This repository contains the AI Tools Assignment for practical and theoretical understanding of AI frameworks. The assignment demonstrates:
 
@@ -23,25 +17,18 @@ Repository Structure:
 
 AI_Tools_Assignment/
 │
-├── task1_sklearn.ipynb        # Classical ML with Iris dataset
-├── task2_tensorflow.ipynb     # CNN model for MNIST dataset
-├── task3_spacy.ipynb          # NLP with Amazon reviews
-├── AI_Tools_Assignment_Report.pdf  # Complete assignment report
-└── README.md                  # This file
-
+├── task1_sklearn.ipynb # Classical ML with Iris dataset
+├── task2_tensorflow.ipynb # CNN model for MNIST dataset
+├── task3_spacy.ipynb # NLP with Amazon reviews
+├── AI_Tools_Assignment_Report.pdf # Complete assignment report
+└── README.md # This file
 
 Setup Instructions:
-
-Clone the repository:
-
-git clone https://github.com/naserian123/ai-tools-assignment
-
-
+https://github.com/ALLAN-MBOTI/ai_week4.git
 Install required Python libraries:
 
 pip install numpy pandas scikit-learn tensorflow matplotlib spacy
 python -m spacy download en_core_web_sm
-
 
 Open notebooks in VS Code or Google Colab.
 
@@ -56,7 +43,6 @@ Task 2: Deep Learning using a CNN on MNIST handwritten digits.
 Task 3: NLP with spaCy for named entity recognition and sentiment analysis on Amazon reviews.
 
 Ethics & Optimization: Discussion on potential biases and troubleshooting approaches.
-
 
 Results:
 
@@ -77,5 +63,3 @@ Scikit-learn: https://scikit-learn.org/
 spaCy: https://spacy.io/
 
 Kaggle Datasets: https://www.kaggle.com/
-
-
